@@ -1,0 +1,242 @@
+:root {
+  
+}
+
+*,
+*::before,
+*::after {
+    
+}
+
+html {
+   
+}
+
+@media screen and (min-width: 900px) {
+    html {
+        font-size: 75%;
+    }
+    .container {
+       
+    }
+    .components {
+       
+    }
+    .components2 {
+       
+    }
+    .wrapper {
+       
+    }
+    /*  BUTTONS  */
+    .btn {
+        
+    }
+    .btn__primary {
+        
+    }
+    .btn__primary:hover {
+        color: var(--white);
+    }
+    .btn__primary:active {
+    }
+    .btn__secondary {
+        
+    }
+    .btn__secondary:hover {
+        color: var(--primary);
+    }
+    .btn__secondary:active {
+    }
+    .btn2 {
+        
+    }
+    .btn__secondary2 {
+        
+    }
+    .btn__secondary2:hover {
+    }
+    .btn__secondary2:active {
+    }
+    .btn p {
+        font-size: 1.6rem;
+    }
+    /*  CLOCK  */
+    .clock {
+       
+    }
+    .clock .hand {
+       
+    }
+    .clock .hours {
+        
+    }
+    .clock .minutes {
+     
+    }
+    .clock .seconds {
+      
+    }
+    .clock .point {
+      
+    }
+    .clock .marker {
+    }
+    .clock .marker::after {
+       
+    }
+    .clock .marker__1,
+    .clock .marker__2,
+    .clock .marker__3,
+    .clock .marker__4 {
+        
+    }
+    .clock .marker__1,
+    .clock .marker__2 {
+        
+    }
+    .clock .marker__3,
+    .clock .marker__4 {
+        
+    }
+    .clock .marker__1 {
+        
+    }
+    .clock .marker__2 {
+        
+    }
+    .clock .marker__3 {
+        
+    }
+    .clock .marker__4 {
+        
+    }
+    /*  ICONS  */
+    .icon {
+      
+    }
+    .icon2 {
+        
+    }
+    .icon2 .icon__add:hover {
+       
+    }
+    .icon__add {
+       
+    }
+    .icon__add:active {
+        
+    }
+    .icon__add:hover {
+        
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .container {
+       
+    }
+    .components {
+        
+    }
+    .components2 {
+       
+    }
+    .wrapper {
+        
+    }
+    /*  BUTTONS  */
+    .btn {
+        
+    }
+    .btn2 {
+       
+    }
+    .btn__primary {
+       
+    }
+    .btn__primary:hover {
+    }
+    .btn__primary:active {
+    }
+    .btn__secondary {
+       
+    }
+    .btn__secondary:hover {
+    }
+    .btn__secondary:active {
+    }
+    .btn p {
+        
+    }
+    /*  CLOCK  */
+    .clock {
+        
+    }
+    .clock .hand {
+        
+    }
+    .clock .hours {
+        
+    }
+    .clock .minutes {
+       
+    }
+    .clock .seconds {
+        
+    }
+    .clock .point {
+        
+    }
+    .clock .marker {
+         
+    }
+    .clock .marker::after {
+        
+    }
+    .clock .marker__1,
+    .clock .marker__2,
+    .clock .marker__3,
+    .clock .marker__4 {
+        
+    }
+    .clock .marker__1,
+    .clock .marker__2 {
+       
+    }
+    .clock .marker__3,
+    .clock .marker__4 {
+       
+    }
+    .clock .marker__1 {
+        
+    }
+    .clock .marker__2 {
+       
+    }
+    .clock .marker__3 {
+       
+    }
+    .clock .marker__4 {
+        
+    }
+    /*  ICONS  */
+    .icon {
+       
+    }
+    .icon2 {
+        
+    }
+    .icon__add {
+       
+    }
+    .icon__add:active {
+        
+    }
+    .icon__add:hover {
+       
+    }
+    .icon2 .icon__add:hover {
+        
+    }
+}
